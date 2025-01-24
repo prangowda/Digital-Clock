@@ -1,0 +1,4 @@
+QT += core gui
+TEMPLATE = app
+SOURCES += digitalclock.cpp
+HEADERS += digitalclock.h
